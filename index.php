@@ -31,7 +31,7 @@ require_once("includes/navigation.inc.php");
 <div class="main">
 
 	<div class="intro-section">
-    	<h1 class="intro__header">Totally awesome products</h1>
+    	<h1 class="intro__header">Totally awesome </h1>
         <p class="intro__content">Scratches on your floors? No way! Uneven chopped nuts? Not anymore! Check out our assortment of quality, ready to ship products. They will change your life, guaranteed! We back every product on our site 100%. Can't find anything you like? <a href="#" alt="Contact Us">Contact us</a> to recommend new products or see if we can acommodate you!</p>
     </div>
 	<div class="view-more-arrow"><a class="view-more-button" href="javascript:void(0);" alt="View Products"><img src="images/view-more-arrow.png" alt="view our products"  /></a></div>
