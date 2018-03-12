@@ -80,7 +80,7 @@ require_once("includes/navigation.inc.php");
                 <img src="images/saw/product.jpg" alt="Vidalia Chop Wizard" />
             </div>
             <div class="callout__right callout4__right">
-                <h3>Rotorazer Saw</h3>
+                <h3>Rotorazer Saw - Ellie was here</h3>
                 <p>Rotorazer&trade; the all-in-one saw that does it all! Rotorazer as seen on TV is so innovative and versatile, you can use it for construction, remodeling, and for all your craft projects. With Rotorazer, everyone cuts like a pro!</p>
             </div>
             <div class="callout__link"><a href="rotorazer.php" alt="View More Information">View More</a></div>
