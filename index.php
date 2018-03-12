@@ -65,7 +65,7 @@ require_once("includes/navigation.inc.php");
         <!--  CALLOUT 3  -->
         <div class="callout callout3">
             <div class="callout__left callout3__left">
-                <img src="images/chop/product.jpg" alt="Vidalia Chop Wizard" />
+                
             </div>
             <div class="callout__right callout3__right">
                 <h3>Vidalia Chop Wizard</h3>
