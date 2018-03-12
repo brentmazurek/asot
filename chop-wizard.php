@@ -28,7 +28,8 @@ require_once("includes/navigation.inc.php");
 <div class="main">
 
 	<div class="intro-section">
-    	<h1 class="intro__header">Vidalia Chop Wizard</h1>
+    	<h1 class="intro__header">Vidalia Onion Chop Wizard</h1>
+		<h3>Save Your Eyes!</h3>
         <h2>$24.95</h2>
         <p>The Vidalia Chop Wizard As Seen On TV is the fastest, safest, and easiest way to chop or dice fruits and vegetables. Simply place the item on top of the stainless steel blade grate and with one swift motion, swing the top lid down.<br />
 All your chopped veggies and fruit are sent cleanly into the clear compartment underneath. Stand it on its side, and it works as a measuring cup with marks up to 2 cups. Blades never need sharpening. Dishwasher safe.</p>
