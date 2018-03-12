@@ -37,7 +37,7 @@ require_once("includes/navigation.inc.php");
     	<!--  CALLOUT 1  -->
         <div class="callout callout1">
           <form class="form" method="post">
-            	<p class="form__intro">Please fill out the following form to order a product.</p>
+            	<p class="form__intro">Fill out the form to order your customized product.</p>
                 <br />
                 <p>First Name (required)</p>
                 <input type="text" required="required" placeholder="First Name" /><br />
